@@ -1,4 +1,5 @@
 # Chapter 2: Working with Pandas DataFrames
+# ITEC 6720
 
 This chapter introduces you to the `pandas` library and shows you the basics of working with `DataFrame` objects.
 
