@@ -1,4 +1,5 @@
 # Hands-On Data Analysis with Pandas &ndash; Second Edition
+## ITEC 6720
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition/master?urlpath=lab) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition/blob/master) [![Nbviewer](https://img.shields.io/badge/render-nbviewer-lightgrey?logo=jupyter)](https://nbviewer.jupyter.org/github/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition/tree/master/) [![Purchase the book on Amazon](https://img.shields.io/badge/Amazon-purchase-orange?logo=amazon&logoColor=orange)](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450)
 <a href="https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450"><img src="_img/cover.PNG" alt="Hands-On Data Analysis with Pandas" height="256px" align="right"></a>
 
